@@ -1,5 +1,5 @@
 {
-    "name": "jollygene/php-phantomjs",
+    "name": "yukiorii/php-phantomjs",
     "description": "A PHP wrapper for loading pages through PhantomJS",
     "keywords": ["PhantomJS", "Testing", "Headless Browser"],
 	"type": "library",
@@ -17,7 +17,7 @@
 	"symfony/dependency-injection": "~2.3|~3.0|^5.3",
         "symfony/filesystem": "~2.3|~3.0|^5.3",
         "symfony/yaml": "~2.3|~3.0|^5.3",
-	"twig/twig": "~1.16|^3.3",
+	"twig/twig": "~1.44",
 	"jakoch/phantomjs-installer": "2.1.1-p08|^3"
     },
     "require-dev": {
