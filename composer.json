@@ -17,7 +17,7 @@
 	"symfony/dependency-injection": "~2.3|~3.0|^5.3",
         "symfony/filesystem": "~2.3|~3.0|^5.3",
         "symfony/yaml": "~2.3|~3.0|^5.3",
-	"twig/twig": "~1.44",
+	"twig/twig": "~1.16|^3.3",
 	"jakoch/phantomjs-installer": "2.1.1-p08|^3"
     },
     "require-dev": {
